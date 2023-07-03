@@ -18,7 +18,7 @@
 <tr><td>-server_config.js</td><td> 服务器基础配置</td></tr>
 </table>
 <hr>
-数据库结构在qqbot.sql
+数据库结构在<a href="./qqbot.sql">qqbot.sql</a>
 <br>
 <br>
 表:-public_talk 对话与回复
