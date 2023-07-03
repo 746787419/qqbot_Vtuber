@@ -7,6 +7,10 @@
 <p>4.卡路里百度百科等一些简单的外部api功能</p>
 <p>5.根据分词自动回复内容</p>
 <p>6.添加对话</p>
+<p>执行方式:</p>
+<script>
+  node app.js
+</script>
 <p>
 需要搭配<a href="https://docs.go-cqhttp.org/">go-cqhttp</a>使用
 请注意使用前在appConfig目录下对文件进行配置
